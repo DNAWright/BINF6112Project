@@ -1,0 +1,131 @@
+3848	17675597	trnH-GUG	W848_t002	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675598	clpP	W848_p040	-	-	-	-	clp protease proteolytic subunit	protein-coding	-	-	-	-	20160910
+3848	17675599	psbA	W848_p083	-	-	-	-	photosystem II protein D1	protein-coding	-	-	-	-	20160806
+3848	17675600	trnK-UUU	W848_t003	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675601	matK	W848_p082	-	-	-	-	maturase K	protein-coding	-	-	-	-	20160910
+3848	17675602	rbcL	W848_p081	-	-	-	-	ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit	protein-coding	-	-	-	-	20150520
+3848	17675603	atpB	W848_p080	-	-	-	-	ATP synthase CF1 beta subunit	protein-coding	-	-	-	-	20160903
+3848	17675604	atpE	W848_p079	-	-	-	-	ATP synthase CF1 epsilon subunit	protein-coding	-	-	-	-	20150520
+3848	17675605	trnM-CAU	W848_t004	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675606	trnV-UAC	W848_t005	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675607	ndhC	W848_p078	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 3	protein-coding	-	-	-	-	20150520
+3848	17675608	ndhK	W848_p077	-	-	-	-	NADH-plastoquinone oxidoreductase subunit K	protein-coding	-	-	-	-	20160903
+3848	17675609	ndhJ	W848_p076	-	-	-	-	NADH-plastoquinone oxidoreductase subunit J	protein-coding	-	-	-	-	20150520
+3848	17675610	trnF-GAA	W848_t006	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675611	trnL-UAA	W848_t008	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675612	trnT-UGU	W848_t014	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675613	trnL-UAA	W848_t009	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675614	rps4	W848_p075	-	-	-	-	ribosomal protein S4	protein-coding	-	-	-	-	20160903
+3848	17675615	trnS-GGA	W848_t015	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675616	ycf3	W848_p074	-	-	-	-	hypothetical chloroplast RF34	protein-coding	-	-	-	-	20160903
+3848	17675617	psaA	W848_p073	-	-	-	-	photosystem I P700 apoprotein A1	protein-coding	-	-	-	-	20150520
+3848	17675618	psaB	W848_p072	-	-	-	-	photosystem I P700 apoprotein A2	protein-coding	-	-	-	-	20150520
+3848	17675619	rps14	W848_p071	-	-	-	-	ribosomal protein S14	protein-coding	-	-	-	-	20150520
+3848	17675620	trnfM-CAU	W848_t017	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675621	trnG-GCC	W848_t018	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675622	trnS-GCU	W848_t020	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675623	psbZ	W848_p070	-	-	-	-	photosystem II protein Z	protein-coding	-	-	-	-	20150520
+3848	17675624	trnS-UGA	W848_t016	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675625	psbC	W848_p069	-	-	-	-	photosystem II CP43 chlorophyll apoprotein	protein-coding	-	-	-	-	20150520
+3848	17675626	psbD	W848_p068	-	-	-	-	photosystem II protein D2	protein-coding	-	-	-	-	20160903
+3848	17675627	trnT-GGU	W848_t013	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675628	trnE-UUC	W848_t012	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675629	trnY-GUA	W848_t011	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675630	trnD-GUC	W848_t010	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675631	psbM	W848_p067	-	-	-	-	photosystem II protein M	protein-coding	-	-	-	-	20150627
+3848	17675632	petN	W848_p066	-	-	-	-	cytochrome b6/f complex subunit VIII	protein-coding	-	-	-	-	20150520
+3848	17675633	trnC-GCA	W848_t007	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675634	rpoB	W848_p065	-	-	-	-	RNA polymerase beta subunit	protein-coding	-	-	-	-	20160903
+3848	17675635	rpoC1	W848_p064	-	-	-	-	RNA polymerase beta	protein-coding	-	-	-	-	20160910
+3848	17675636	rpoC2	W848_p063	-	-	-	-	RNA polymerase beta' subunit	protein-coding	-	-	-	-	20160903
+3848	17675637	rps2	W848_p062	-	-	-	-	ribosomal protein S2	protein-coding	-	-	-	-	20160910
+3848	17675638	atpI	W848_p061	-	-	-	-	ATP synthase CF0 subunit IV	protein-coding	-	-	-	-	20150520
+3848	17675639	atpH	W848_p060	-	-	-	-	ATP synthase CF0 subunit III	protein-coding	-	-	-	-	20150520
+3848	17675640	atpF	W848_p059	-	-	-	-	ATP synthase CF0 subunit I	protein-coding	-	-	-	-	20150520
+3848	17675641	atpA	W848_p058	-	-	-	-	ATP synthase CF1 alpha subunit	protein-coding	-	-	-	-	20160903
+3848	17675642	trnR-UCU	W848_t001	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675643	trnG-UCC	W848_t019	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675644	psbI	W848_p057	-	-	-	-	photosystem II protein I	protein-coding	-	-	-	-	20150520
+3848	17675645	psbK	W848_p056	-	-	-	-	photosystem II protein K	protein-coding	-	-	-	-	20150520
+3848	17675646	trnQ-UUG	W848_t021	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675647	rps16	W848_p055	-	-	-	-	ribosomal protein S16	protein-coding	-	-	-	-	20150520
+3848	17675648	accD	W848_p054	-	-	-	-	acetyl-CoA carboxylase carboxyltransferase beta subunit	protein-coding	-	-	-	-	20150520
+3848	17675649	psaI	W848_p053	-	-	-	-	photosystem I subunit VIII	protein-coding	-	-	-	-	20150520
+3848	17675650	cemA	W848_p052	-	-	-	-	chloroplast envelope membrane protein	protein-coding	-	-	-	-	20150520
+3848	17675651	petA	W848_p051	-	-	-	-	cytochrome f	protein-coding	-	-	-	-	20160806
+3848	17675652	psbJ	W848_p050	-	-	-	-	photosystem II protein J	protein-coding	-	-	-	-	20150520
+3848	17675653	psbL	W848_p049	-	-	-	-	photosystem II protein L	protein-coding	-	-	-	-	20150520
+3848	17675654	psbF	W848_p048	-	-	-	-	photosystem II cytochrome b559 beta subunit	protein-coding	-	-	-	-	20150520
+3848	17675655	psbE	W848_p047	-	-	-	-	photosystem II cytochrome b559 alpha subunit	protein-coding	-	-	-	-	20160730
+3848	17675656	petL	W848_p046	-	-	-	-	cytochrome b6/f complex subunit VI	protein-coding	-	-	-	-	20150520
+3848	17675657	petG	W848_p045	-	-	-	-	cytochrome b6/f complex subunit V	protein-coding	-	-	-	-	20160806
+3848	17675658	trnW-CCA	W848_t022	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675659	trnP-UGG	W848_t023	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675660	psaJ	W848_p044	-	-	-	-	photosystem I subunit IX	protein-coding	-	-	-	-	20150520
+3848	17675661	rpl33	W848_p043	-	-	-	-	ribosomal protein L33	protein-coding	-	-	-	-	20150520
+3848	17675662	rps18	W848_p042	-	-	-	-	ribosomal protein S18	protein-coding	-	-	-	-	20150520
+3848	17675663	rpl20	W848_p041	-	-	-	-	ribosomal protein L20	protein-coding	-	-	-	-	20160903
+3848	17675664	rps12	W848_p084	-	-	-	-	ribosomal protein S12	protein-coding	-	-	-	-	20160910
+3848	17675665	psbB	W848_p039	-	-	-	-	photosystem II 47 kDa protein	protein-coding	-	-	-	-	20150520
+3848	17675666	psbT	W848_p038	-	-	-	-	photosystem II protein T	protein-coding	-	-	-	-	20150520
+3848	17675667	psbN	W848_p037	-	-	-	-	photosystem II protein N	protein-coding	-	-	-	-	20150520
+3848	17675668	psbH	W848_p036	-	-	-	-	photosystem II phosphoprotein	protein-coding	-	-	-	-	20150520
+3848	17675669	petB	W848_p035	-	-	-	-	cytochrome b6	protein-coding	-	-	-	-	20160903
+3848	17675670	petD	W848_p034	-	-	-	-	cytochrome b6/f complex subunit IV	protein-coding	-	-	-	-	20160903
+3848	17675671	rpoA	W848_p033	-	-	-	-	RNA polymerase alpha subunit	protein-coding	-	-	-	-	20160903
+3848	17675672	rps11	W848_p032	-	-	-	-	ribosomal protein S11	protein-coding	-	-	-	-	20150520
+3848	17675673	rpl36	W848_p031	-	-	-	-	ribosomal protein L36	protein-coding	-	-	-	-	20150520
+3848	17675674	rps8	W848_p030	-	-	-	-	ribosomal protein S8	protein-coding	-	-	-	-	20150520
+3848	17675675	rpl14	W848_p029	-	-	-	-	ribosomal protein L14	protein-coding	-	-	-	-	20150520
+3848	17675676	rpl16	W848_p028	-	-	-	-	ribosomal protein L16	protein-coding	-	-	-	-	20160903
+3848	17675677	rps3	W848_p027	-	-	-	-	ribosomal protein S3	protein-coding	-	-	-	-	20160903
+3848	17675678	rps19	W848_p026	-	-	-	-	ribosomal protein S19	protein-coding	-	-	-	-	20150520
+3848	17675679	rpl2	W848_p025	-	-	-	-	ribosomal protein L2	protein-coding	-	-	-	-	20160903
+3848	17675680	rpl23	W848_p024	-	-	-	-	ribosomal protein L23	protein-coding	-	-	-	-	20150520
+3848	17675681	trnI-CAU	W848_t024	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675682	ycf2	W848_p023	-	-	-	-	hypothetical chloroplast RF21	protein-coding	-	-	-	-	20160903
+3848	17675683	trnL-CAA	W848_t025	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675684	ndhB	W848_p022	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 2	protein-coding	-	-	-	-	20160903
+3848	17675685	rps7	W848_p021	-	-	-	-	ribosomal protein S7	protein-coding	-	-	-	-	20160820
+3848	17675686	ycf15	W848_p020	-	-	-	-	pseudo	pseudo	-	-	-	-	20131119
+3848	17675687	trnV-GAC	W848_t026	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675688	trnI-GAU	W848_t027	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675689	trnA-UGC	W848_t028	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675690	trnR-ACG	W848_t029	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675691	trnN-GUU	W848_t030	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675692	ycf1	W848_p019	-	-	-	-	hypothetical chloroplast RF19	protein-coding	-	-	-	-	20160910
+3848	17675693	rps15	W848_p018	-	-	-	-	ribosomal protein S15	protein-coding	-	-	-	-	20160903
+3848	17675694	ndhH	W848_p017	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 7	protein-coding	-	-	-	-	20150718
+3848	17675695	ndhA	W848_p016	-	-	-	-	NADH dehydrogenase subunit 1	protein-coding	-	-	-	-	20150520
+3848	17675696	ndhI	W848_p015	-	-	-	-	NADH-plastoquinone oxidoreductase subunit I	protein-coding	-	-	-	-	20160903
+3848	17675697	ndhG	W848_p014	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 6	protein-coding	-	-	-	-	20150520
+3848	17675698	ndhE	W848_p013	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 4L	protein-coding	-	-	-	-	20150520
+3848	17675699	psaC	W848_p012	-	-	-	-	photosystem I subunit VII	protein-coding	-	-	-	-	20160806
+3848	17675700	ndhD	W848_p011	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 4	protein-coding	-	-	-	-	20160910
+3848	17675701	ccsA	W848_p010	-	-	-	-	cytochrome c heme attachment protein	protein-coding	-	-	-	-	20150520
+3848	17675702	trnL-UAG	W848_t031	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675703	rpl32	W848_p009	-	-	-	-	ribosomal protein L32	protein-coding	-	-	-	-	20150520
+3848	17675704	ndhF	W848_p008	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 5	protein-coding	-	-	-	-	20160910
+3848	17675705	ycf1	W848_p007	-	-	-	-	hypothetical chloroplast RF19	protein-coding	-	-	-	-	20160903
+3848	17675706	trnN-GUU	W848_t032	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675707	trnR-ACG	W848_t033	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675708	trnA-UGC	W848_t034	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675709	trnI-GAU	W848_t035	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675710	trnV-GAC	W848_t036	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675711	ycf15	W848_p006	-	-	-	-	pseudo	pseudo	-	-	-	-	20131119
+3848	17675712	rps7	W848_p005	-	-	-	-	ribosomal protein S7	protein-coding	-	-	-	-	20160820
+3848	17675713	ndhB	W848_p004	-	-	-	-	NADH-plastoquinone oxidoreductase subunit 2	protein-coding	-	-	-	-	20160903
+3848	17675714	trnL-CAA	W848_t037	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675715	ycf2	W848_p003	-	-	-	-	hypothetical chloroplast RF21	protein-coding	-	-	-	-	20160903
+3848	17675716	trnI-CAU	W848_t038	-	-	-	-	tRNA	tRNA	-	-	-	-	20131119
+3848	17675717	rpl23	W848_p002	-	-	-	-	ribosomal protein L23	protein-coding	-	-	-	-	20150520
+3848	17675718	rps12	W848_p085	-	-	-	-	ribosomal protein S12	protein-coding	-	-	-	-	20160910
+3848	17675719	rpl2	W848_p001	-	-	-	-	ribosomal protein L2	protein-coding	-	-	-	-	20160903
+3848	17675926	W848_r001	W848_r001	-	-	-	-	16S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675927	W848_r002	W848_r002	-	-	-	-	23S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675928	W848_r005	W848_r005	-	-	-	-	5S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675929	W848_r008	W848_r008	-	-	-	-	16S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675930	W848_r003	W848_r003	-	-	-	-	4.5S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675931	W848_r004	W848_r004	-	-	-	-	5S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675932	W848_r006	W848_r006	-	-	-	-	4.5S ribosomal RNA	rRNA	-	-	-	-	20131119
+3848	17675933	W848_r007	W848_r007	-	-	-	-	23S ribosomal RNA	rRNA	-	-	-	-	20131119
